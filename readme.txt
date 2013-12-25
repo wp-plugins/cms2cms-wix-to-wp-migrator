@@ -1,15 +1,16 @@
-﻿=== CMS2CMS: Wix to WP Migrator  ===
+﻿=== CMS2CMS: Wix to WordPress Migrator  ===
 Contributors: cms2cms
 Tags: Wix to wordpress, Wix to wordpress mirgation, convert Wix to wordpress, migrate Wix to wordpress
 Requires at least: 3.0.0
 Tested up to: 3.8
-Stable tag: 3.0.8
+Stable tag: 3.1.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Time to switch your site from Wix to WordPress? This plugin is what you need.
 
 == Description ==
+
 Time to switch your site from Wix to WordPress? This plugin is what you need. It is designed to  transfer your Wix site content from to WordPress in no time. Plus, it is easy to use even if you never handled a migration before. There is no dealing with code, just a quick setup in the intuitive Migration Wizard.
 
 = Why CMS2CMS? =
@@ -28,6 +29,7 @@ CMS2CMS plugin sets up the connection bridge on WordPress site, which makes data
 
 
 == Installation ==
+
 1. Download the plugin zip file
 1. Extract plugin zip file to your PC
 1. Upload extracted file to wp-content/plugin directory
@@ -36,6 +38,7 @@ CMS2CMS plugin sets up the connection bridge on WordPress site, which makes data
 
 
 == Frequently Asked Questions ==
+
 = Your website is unreachable =
 If your website cannot be reached, pay attention to the following points:
 1. Make sure your site is available online at the moment.
@@ -92,7 +95,9 @@ To fix it, you should either download the bridge again under the account you are
 == Screenshots ==
 
 
+
 == Changelog ==
+
 = 2.0.2 =
 * Bug fixes
 
