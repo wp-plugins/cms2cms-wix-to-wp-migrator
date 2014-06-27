@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS: Wix to WordPress Migrator  ===
 Contributors: cms2cms
-Tags: Wix to wordpress, Wix to wordpress mirgation, convert Wix to wordpress, migrate Wix to wordpress
+Tags: Wix to wordpress, Wix to wordpress migration, convert Wix to wordpress, migrate Wix to wordpress, images, plugin
 Requires at least: 3.0.0
 Tested up to: 3.9.1
 Stable tag: 3.6.2
