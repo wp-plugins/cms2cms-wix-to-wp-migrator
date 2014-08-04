@@ -3189,7 +3189,8 @@ class Bridge_Module_Cms_Drupal_Drupal5 extends  Bridge_Module_Cms_Abstract
     }
 
 }
-?><?php
+?>
+<?php
 class Bridge_Module_Cms_Drupal_Drupal6 extends  Bridge_Module_Cms_Drupal_Drupal5
 {
 
