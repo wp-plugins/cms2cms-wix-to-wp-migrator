@@ -16,6 +16,7 @@ Time to switch your site from Wix to WordPress? This plugin is what you need. It
 * *There is Free Demo available (migration of limited number of pages).*
 * *Full Migration starts from $9.*
 
+
 = Why CMS2CMS? =
 * cost-free Demo
 * 24/7 technical support
