@@ -13,6 +13,9 @@ Time to switch your site from Wix to WordPress? This plugin is what you need.
 
 Time to switch your site from Wix to WordPress? This plugin is what you need. It is designed to  transfer your Wix site content from to WordPress in no time. Plus, it is easy to use even if you never handled a migration before. There is no dealing with code, just a quick setup in the intuitive Migration Wizard.
 
+* *There is Free Demo available (migration of limited number of pages).*
+* *Full Migration starts from $9.*
+
 = Why CMS2CMS? =
 * cost-free Demo
 * 24/7 technical support
@@ -29,7 +32,6 @@ CMS2CMS plugin sets up the connection bridge on WordPress site, which makes data
 
 = Video =
 [youtube https://www.youtube.com/watch?v=MtjplsYycjY]
-
 
 Find more info here: http://www.cms2cms.com/supported-cms/wix-to-wordpress-migration/
 
