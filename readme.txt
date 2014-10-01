@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: Wix to wordpress, Wix to wordpress migration, convert Wix to wordpress, migrate Wix to wordpress, images, plugin
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -21,9 +21,9 @@ Time to switch your site from Wix to WordPress? This plugin is what you need. It
 * cost-free Demo
 * 24/7 technical support
 
-See more info here: http://www.cms2cms.com/supported-cms/wix-to-wordpress-migration
+See more info here: http://www.cms2cms.com/supported-cms/wix-to-wordpress-migration?utm_source=Wix&utm_medium=Link&utm_campaign=WordPress_plugins
 
-*Supported WordPress versions:* 3.x (new software versions are constantly being added).
+*Supported WordPress versions:* 4.x (new software versions are constantly being added).
 
 **Note.** *Wix to WordPress Migrator works only for content, and doesn’t migrate website design. You can set up a new theme for WordPress after the migration.*
 
