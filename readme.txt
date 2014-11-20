@@ -17,6 +17,21 @@ Time to switch your site from Wix to WordPress? This plugin is what you need. It
 * *Full Migration starts from $9.*
 
 
+= The Following are the Supported Entities that you can migrate from Wix to WordPress: =
+* *pages*
+* *posts*
+* *tags*
+* *menu*
+* *content images* 
+* *internal links*
+
+= Additional Migration Options: =
+- clear WordPress data before migration
+- fix broken relationships in the database
+- fix internal links after migration 
+
+
+
 = Why CMS2CMS? =
 * cost-free Demo
 * 24/7 technical support
