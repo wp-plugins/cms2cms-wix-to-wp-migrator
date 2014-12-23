@@ -49,6 +49,11 @@ CMS2CMS plugin sets up the connection bridge on WordPress site, which makes data
 = Video =
 [youtube https://www.youtube.com/watch?v=MtjplsYycjY]
 
+Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
+Phone support – 24 hours a day, Monday – Friday
+Live Chat support – 24 hours a day, Monday – Friday
+Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+
 Find more info here: http://www.cms2cms.com/supported-cms/wix-to-wordpress-migration/
 
 == Installation ==
